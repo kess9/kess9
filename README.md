@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teslaputin
 - 👀 I’m interested in bioinformatics, robotics, biological programming
 - 🌱 I’m currently learning anything and everything i can get my paws on
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on whatever interests me
 - 📫 How to reach me ...
 
 <!---
